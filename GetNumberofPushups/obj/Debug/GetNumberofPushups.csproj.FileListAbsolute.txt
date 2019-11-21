@@ -1,0 +1,25 @@
+c:\users\skotla\onedrive - infor\documents\visual studio 2015\GetNumberofPushups\GetNumberofPushups\bin\Debug\GetNumberofPushups.exe.config
+c:\users\skotla\onedrive - infor\documents\visual studio 2015\GetNumberofPushups\GetNumberofPushups\bin\Debug\GetNumberofPushups.exe
+c:\users\skotla\onedrive - infor\documents\visual studio 2015\GetNumberofPushups\GetNumberofPushups\bin\Debug\GetNumberofPushups.pdb
+c:\users\skotla\onedrive - infor\documents\visual studio 2015\GetNumberofPushups\GetNumberofPushups\obj\Debug\GetNumberofPushups.csprojResolveAssemblyReference.cache
+c:\users\skotla\onedrive - infor\documents\visual studio 2015\GetNumberofPushups\GetNumberofPushups\obj\Debug\GetNumberofPushups.exe
+c:\users\skotla\onedrive - infor\documents\visual studio 2015\GetNumberofPushups\GetNumberofPushups\obj\Debug\GetNumberofPushups.pdb
+C:\Jo_Personal\GetNumberofPushups\GetNumberofPushups\bin\Debug\GetNumberofPushups.exe.config
+C:\Jo_Personal\GetNumberofPushups\GetNumberofPushups\obj\Debug\GetNumberofPushups.exe
+C:\Jo_Personal\GetNumberofPushups\GetNumberofPushups\obj\Debug\GetNumberofPushups.pdb
+C:\Jo_Personal\GetNumberofPushups\GetNumberofPushups\bin\Debug\GetNumberofPushups.exe
+C:\Jo_Personal\GetNumberofPushups\GetNumberofPushups\bin\Debug\GetNumberofPushups.pdb
+C:\Jo_Personal\GetNumberofPushups\GetNumberofPushups\obj\Debug\GetNumberofPushups.csprojResolveAssemblyReference.cache
+\\inhynrpamugari2\SharedFolder\GetNumberofPushups\GetNumberofPushups\bin\Debug\GetNumberofPushups.exe.config
+\\inhynrpamugari2\SharedFolder\GetNumberofPushups\GetNumberofPushups\bin\Debug\GetNumberofPushups.exe
+\\inhynrpamugari2\SharedFolder\GetNumberofPushups\GetNumberofPushups\bin\Debug\GetNumberofPushups.pdb
+\\inhynrpamugari2\SharedFolder\GetNumberofPushups\GetNumberofPushups\obj\Debug\GetNumberofPushups.csprojAssemblyReference.cache
+\\inhynrpamugari2\SharedFolder\GetNumberofPushups\GetNumberofPushups\obj\Debug\GetNumberofPushups.csproj.CoreCompileInputs.cache
+\\inhynrpamugari2\SharedFolder\GetNumberofPushups\GetNumberofPushups\obj\Debug\GetNumberofPushups.exe
+\\inhynrpamugari2\SharedFolder\GetNumberofPushups\GetNumberofPushups\obj\Debug\GetNumberofPushups.pdb
+C:\GetNumberofPushups\GetNumberofPushups\bin\Debug\GetNumberofPushups.exe.config
+C:\GetNumberofPushups\GetNumberofPushups\obj\Debug\GetNumberofPushups.exe
+C:\GetNumberofPushups\GetNumberofPushups\obj\Debug\GetNumberofPushups.pdb
+C:\GetNumberofPushups\GetNumberofPushups\bin\Debug\GetNumberofPushups.exe
+C:\GetNumberofPushups\GetNumberofPushups\bin\Debug\GetNumberofPushups.pdb
+C:\GetNumberofPushups\GetNumberofPushups\obj\Debug\GetNumberofPushups.csprojResolveAssemblyReference.cache
